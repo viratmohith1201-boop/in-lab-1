@@ -9,5 +9,8 @@
     <p>Name: Rahul</p>
     <p>Department: CSE</p>
     <p>Placement Status: Eligible</p>
+    <h3>Placement Opportunities</h3>
+    <p>Company: TCS</p>
+    <p>Role: Software Developer</p>
 </body>
 </html>
