@@ -1,0 +1,16 @@
+<html>
+<head>
+    <title>College Placement Management</title>
+</head>
+<body>
+    <h1>College Placement Management System</h1>
+    <p>Welcome to the Placement Portal</p>
+    <h3>Student Details</h3>
+    <p>Name: Rahul</p>
+    <p>Department: CSE</p>
+    <p>Placement Status: Eligible</p>
+    <h3>Placement Opportunities</h3>
+    <p>Company: TCS</p>
+    <p>Role: Software Developer</p>
+</body>
+</html>
